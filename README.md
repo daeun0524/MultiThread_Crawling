@@ -1,5 +1,5 @@
 # MultiThread_Crawling
-implement in Java/ MultiThread Crawling Searching Program using Jsoup
+implement in Java/ **MultiThread Crawling Searching Program using Jsoup**
 
 멀티 스레드를 이용하여 40개의 페이지를 크롤링 한 후, 입력된 단어를 포함하는 페이지에서 검색된 단어의 개수를 출력합니다.
 
